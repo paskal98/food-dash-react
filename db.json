@@ -23,18 +23,18 @@
         {"id":103,"src":"img/id_4.webp","descr":"Healthy noodle with spinach leaf","price":3.29,"count":22,"type":"Hot Dishes"},
         {"id":104,"src":"img/id_5.webp","descr":"Hot spicy fried rice with omelet","price":3.49,"count":13,"type":"Cold Dishes"},
         {"id":105,"src":"img/id_6.webp","descr":"Spicy instant noodle with special omelette","price":3.59,"count":17,"type":"Cold Dishes"},
-        {"id":106,"src":"img/id_7.webp","descr":"Healthy noodle with spinach leaf","price":3.29,"count":18,"type":"Cold Dishes"},
-        {"id":107,"src":"img/id_8.webp","descr":"Hot spicy fried rice with omelet","price":3.39,"count":15,"type":"Cold Dishes"},
-        {"id":108,"src":"img/id_9.webp","descr":"Spicy instant noodle with special omelette","price":2.19,"count":8,"type":"Soup"},
-        {"id":109,"src":"img/id_1.webp","descr":"Spicy seasoned seafood noodles","price":2.29,"count":20,"type":"Soup"},
-        {"id":110,"src":"img/id_2.webp","descr":"Salted Pasta with mushroom sauce","price":2.69,"count":11,"type":"Soup"},
-        {"id":111,"src":"img/id_3.webp","descr":"Beef dumpling in hot and sour soup","price":2.99,"count":16,"type":"Soup"},
-        {"id":112,"src":"img/id_4.webp","descr":"Healthy noodle with spinach leaf","price":3.29,"count":22,"type":"Grill"},
-        {"id":113,"src":"img/id_5.webp","descr":"Hot spicy fried rice with omelet","price":3.49,"count":13,"type":"Grill"},
-        {"id":114,"src":"img/id_6.webp","descr":"Spicy instant noodle with special omelette","price":3.59,"count":17,"type":"Appetizer"},
-        {"id":115,"src":"img/id_7.webp","descr":"Healthy noodle with spinach leaf","price":3.29,"count":18,"type":"Dessert"},
-        {"id":116,"src":"img/id_8.webp","descr":"Hot spicy fried rice with omelet","price":3.39,"count":15,"type":"Dessert"},
-        {"id":117,"src":"img/id_9.webp","descr":"Spicy instant noodle with special omelette","price":2.19,"count":8,"type":"Dessert"}
+        {"id":106,"src":"img/id_7.webp","descr":"Noodle with spinach leaf and chiken","price":3.29,"count":18,"type":"Cold Dishes"},
+        {"id":107,"src":"img/id_8.webp","descr":"Kids omlette","price":3.39,"count":15,"type":"Cold Dishes"},
+        {"id":108,"src":"img/id_9.webp","descr":"Special soup from cheef","price":2.19,"count":8,"type":"Soup"},
+        {"id":109,"src":"img/id_1.webp","descr":"Spicy seasoned noodles with meat","price":2.79,"count":20,"type":"Soup"},
+        {"id":110,"src":"img/id_2.webp","descr":"Salted Pasta with paprika","price":2.69,"count":11,"type":"Soup"},
+        {"id":111,"src":"img/id_3.webp","descr":"Chiken dumpling in hot and sour soup","price":4.99,"count":16,"type":"Soup"},
+        {"id":112,"src":"img/id_4.webp","descr":"Healthy noodle with eggs","price":3.29,"count":22,"type":"Grill"},
+        {"id":113,"src":"img/id_5.webp","descr":"Hot spicy noodle with omelet","price":3.69,"count":13,"type":"Grill"},
+        {"id":114,"src":"img/id_6.webp","descr":"Special omelette with chinese rice","price":3.79,"count":17,"type":"Appetizer"},
+        {"id":115,"src":"img/id_7.webp","descr":"Vegan noodle","price":3.29,"count":18,"type":"Dessert"},
+        {"id":116,"src":"img/id_8.webp","descr":"Fired potatos with rice and omlette","price":3.99,"count":15,"type":"Dessert"},
+        {"id":117,"src":"img/id_9.webp","descr":"Omlette with mushrums and sweety souse","price":2.09,"count":8,"type":"Dessert"}
     ]
 }
 
