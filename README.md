@@ -4,4 +4,4 @@
 3. Check result
 
 - About
-Some react-app for mini-restaurants, can load dishes, filter dishes and search by input 
+  Some react-app for mini-restaurants, can load dishes, filter dishes and search by input 
