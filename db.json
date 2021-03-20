@@ -1,0 +1,40 @@
+  
+{
+    "menuItems":[
+        {"id":10,"className":"fas fa-home","status":"active"},
+        {"id":11,"className":"fas fa-percentage","status":"unactive"},
+        {"id":12,"className":"fas fa-chart-pie","status":"active"},
+        {"id":13,"className":"fas fa-envelope","status":"unactive"},
+        {"id":14,"className":"fas fa-bell","status":"unactive"},
+        {"id":15,"className":"fas fa-cog","status":"active"},
+        {"id":16,"className":"fas fa-sign-out-alt","status":"active"}
+    ],
+    "navigationItems":[
+        {"id":17,"label":"Hot Dishes","status":"active"},
+        {"id":18,"label":"Cold Dishes","status":"active"},
+        {"id":19,"label":"Soup","status":"active"},
+        {"id":20,"label":"Grill","status":"active"},
+        {"id":21,"label":"Dessert","status":"unactive "},
+        {"id":22,"label":"All","status":"active"}
+    ],
+    "dishes":[
+        {"id":100,"src":"img/id_1.png","descr":"Spicy seasoned seafood noodles","price":2.29,"count":20,"type":"Hot Dishes"},
+        {"id":101,"src":"img/id_2.png","descr":"Salted Pasta with mushroom sauce","price":2.69,"count":11,"type":"Hot Dishes"},
+        {"id":102,"src":"img/id_3.png","descr":"Beef dumpling in hot and sour soup","price":2.99,"count":16,"type":"Hot Dishes"},
+        {"id":103,"src":"img/id_4.png","descr":"Healthy noodle with spinach leaf","price":3.29,"count":22,"type":"Hot Dishes"},
+        {"id":104,"src":"img/id_5.png","descr":"Hot spicy fried rice with omelet","price":3.49,"count":13,"type":"Cold Dishes"},
+        {"id":105,"src":"img/id_6.png","descr":"Spicy instant noodle with special omelette","price":3.59,"count":17,"type":"Cold Dishes"},
+        {"id":106,"src":"img/id_7.png","descr":"Healthy noodle with spinach leaf","price":3.29,"count":18,"type":"Cold Dishes"},
+        {"id":107,"src":"img/id_8.png","descr":"Hot spicy fried rice with omelet","price":3.39,"count":15,"type":"Cold Dishes"},
+        {"id":108,"src":"img/id_9.png","descr":"Spicy instant noodle with special omelette","price":2.19,"count":8,"type":"Soup"},
+        {"id":109,"src":"img/id_1.png","descr":"Spicy seasoned seafood noodles","price":2.29,"count":20,"type":"Soup"},
+        {"id":110,"src":"img/id_2.png","descr":"Salted Pasta with mushroom sauce","price":2.69,"count":11,"type":"Soup"},
+        {"id":111,"src":"img/id_3.png","descr":"Beef dumpling in hot and sour soup","price":2.99,"count":16,"type":"Soup"},
+        {"id":112,"src":"img/id_4.png","descr":"Healthy noodle with spinach leaf","price":3.29,"count":22,"type":"Grill"},
+        {"id":113,"src":"img/id_5.png","descr":"Hot spicy fried rice with omelet","price":3.49,"count":13,"type":"Grill"},
+        {"id":114,"src":"img/id_6.png","descr":"Spicy instant noodle with special omelette","price":3.59,"count":17,"type":"Appetizer"},
+        {"id":115,"src":"img/id_7.png","descr":"Healthy noodle with spinach leaf","price":3.29,"count":18,"type":"Dessert"},
+        {"id":116,"src":"img/id_8.png","descr":"Hot spicy fried rice with omelet","price":3.39,"count":15,"type":"Dessert"},
+        {"id":117,"src":"img/id_9.png","descr":"Spicy instant noodle with special omelette","price":2.19,"count":8,"type":"Dessert"}
+    ]
+}
