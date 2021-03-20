@@ -1,8 +1,10 @@
-  
 {
     "menuItems":[
         {"id":10,"className":"fas fa-home","status":"active"},
+        {"id":11,"className":"fas fa-percentage","status":"unactive"},
         {"id":12,"className":"fas fa-chart-pie","status":"active"},
+        {"id":13,"className":"fas fa-envelope","status":"unactive"},
+        {"id":14,"className":"fas fa-bell","status":"unactive"},
         {"id":15,"className":"fas fa-cog","status":"active"},
         {"id":16,"className":"fas fa-sign-out-alt","status":"active"}
     ],
@@ -35,3 +37,6 @@
         {"id":117,"src":"img/id_9.png","descr":"Spicy instant noodle with special omelette","price":2.19,"count":8,"type":"Dessert"}
     ]
 }
+
+
+
